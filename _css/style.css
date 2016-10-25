@@ -1,0 +1,11 @@
+@charset="UTF-8";
+
+body{
+    font-family: arial,sans-serif;
+    background-color: azure;
+}
+.div1{
+    margin: 10px;
+    height: 350px;
+    border: 1px solid black;
+}
